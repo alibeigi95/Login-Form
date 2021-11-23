@@ -194,6 +194,12 @@ form {
     cursor: pointer;
     margin-top: 20px;
 }
+.log-in-button a {
+    color: inherit;
+    border-radius: 2px;
+    cursor: pointer;
+    text-decoration: none;
+}
 
 .log-in{
     margin-top: 20%;
